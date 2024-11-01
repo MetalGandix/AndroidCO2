@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Co2Calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="co2_consumption_text">Consume of CO₂: 0 g</string>
+</resources>
